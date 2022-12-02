@@ -1,5 +1,4 @@
-# eatz-sim
-Hypothetical simulation for eatz
+# Employee Rewards Simulation
 
 You can run this simulation using Jupyter notebook.
 
